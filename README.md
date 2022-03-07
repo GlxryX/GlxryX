@@ -1,4 +1,4 @@
-### I make things.
+# I make things.
 ## They work sometimes.
 
 I'm working on [Omex](https://discord.com/api/oauth2/authorize?client_id=874826554960658532&permissions=1101662645254&scope=applications.commands%20bot), an all purpose Discord bot that does stuff. 
