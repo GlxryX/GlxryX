@@ -1,7 +1,6 @@
 <h1>Hey, I'm FinallyComplete</h1>
 <p align="center">I am a high school student who loves coding.</p>
-<p align="center">I'm currently working on [Omex](https://discord.com/api/oauth2/authorize?client_id=874826554960658532&permissions=1101662645254&scope=applications.commands%20bot), an all purpose Discord bot that does stuff. </p>
-I'm working on <a href="https://discord.com/api/oauth2/authorize?client_id=874826554960658532&permissions=1101662645254&scope=applications.commands%20bot">Omex</a>, an all purpose Discord bot that does stuff.
+<p align="center">I'm working on <a href="https://discord.com/api/oauth2/authorize?client_id=874826554960658532&permissions=1101662645254&scope=applications.commands%20bot">Omex</a>, an all purpose Discord bot that does stuff.</p>
 
 <h1>Technologies</h1>
 <p align="center">
@@ -39,10 +38,6 @@ I'm working on <a href="https://discord.com/api/oauth2/authorize?client_id=87482
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40">
   </a>
  </p>
-
-![stats](https://github-readme-stats-glxryx.vercel.app/api?username=glxryx&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=dark)
-
-![languages](https://github-readme-stats-glxryx.vercel.app/api/top-langs/?username=glxryx&theme=dark)
 
  <h1>GitHub Activity</h1>
  <p align="center">
