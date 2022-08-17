@@ -1,5 +1,5 @@
 <h1>Hey, I'm FinallyComplete</h1>
-<p align="center">I'm working on <a href="https://discord.com/api/oauth2/authorize?client_id=874826554960658532&permissions=1101662645254&scope=applications.commands%20bot">Omex</a>, an all purpose Discord bot that does stuff, alongside <a href="https://discord.com/api/oauth2/authorize?client_id=991739089361575987&permissions=2171652368&scope=applications.commands%20bot">Octave</a>, a little music bot that plays music or something</p>
+<p align="center">I'm working on <a href="https://discord.com/api/oauth2/authorize?client_id=874826554960658532&permissions=1101662645254&scope=applications.commands%20bot">Omex</a>, an all purpose Discord bot that does stuff, alongside <a href="https://discord.com/api/oauth2/authorize?client_id=991739089361575987&permissions=2171652368&scope=applications.commands%20bot">Synthia</a>, a little music bot that plays music or something</p>
 
 <!-- <h1>Technologies</h1>
 <p align="center">
